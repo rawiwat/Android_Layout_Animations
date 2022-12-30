@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android_Layout_Animations-73f639f49b030f7eb77cc860fb6b13b3f4e4baab.iml" filepath="$PROJECT_DIR$/.idea/modules/Android_Layout_Animations-73f639f49b030f7eb77cc860fb6b13b3f4e4baab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android_Layout_Animations-73f639f49b030f7eb77cc860fb6b13b3f4e4baab.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android_Layout_Animations-73f639f49b030f7eb77cc860fb6b13b3f4e4baab.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android_Layout_Animations-73f639f49b030f7eb77cc860fb6b13b3f4e4baab.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android_Layout_Animations-73f639f49b030f7eb77cc860fb6b13b3f4e4baab.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android_Layout_Animations-73f639f49b030f7eb77cc860fb6b13b3f4e4baab.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android_Layout_Animations-73f639f49b030f7eb77cc860fb6b13b3f4e4baab.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android_Layout_Animations-73f639f49b030f7eb77cc860fb6b13b3f4e4baab.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android_Layout_Animations-73f639f49b030f7eb77cc860fb6b13b3f4e4baab.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
